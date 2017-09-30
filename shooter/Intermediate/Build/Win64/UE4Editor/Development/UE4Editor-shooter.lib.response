@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-shooter.dll"
+/IGNORE:4221
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"E:\UEStudy\UEShooter\shooter\Intermediate\Build\Win64\UE4Editor\Development\shooter\PCH.shooter.h.obj"
+"E:\UEStudy\UEShooter\shooter\Intermediate\Build\Win64\UE4Editor\Development\shooter\MyCharacter.cpp.obj"
+"E:\UEStudy\UEShooter\shooter\Intermediate\Build\Win64\UE4Editor\Development\shooter\shooter.cpp.obj"
+"E:\UEStudy\UEShooter\shooter\Intermediate\Build\Win64\UE4Editor\Development\shooter\shooter.generated.cpp.obj"
+"D:\Program Files\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\shooter\PCLaunch.rc.res"
+"D:\Program Files\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\UEStudy\UEShooter\shooter\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-shooter.lib"
