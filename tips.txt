@@ -1,1 +1,4 @@
 这个分支是用来继续学习UE第三季课程
+
+1 解压下面这个路径里的文件PCH.shooter.h.gch.zip到当前目录
+UEShooter/shooter/Intermediate/Build/Mac/UE4Editor/Development/shooter
