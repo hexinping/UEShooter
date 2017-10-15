@@ -1,0 +1,3 @@
+/Users/hexinping/Desktop/UEShooter/shooter/Source/shooter/shooter.Build.cs
+/Users/hexinping/Desktop/UEShooter/shooter/Source/shooter.Target.cs
+/Users/hexinping/Desktop/UEShooter/shooter/Source/shooterEditor.Target.cs
