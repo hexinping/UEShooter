@@ -1,0 +1,4 @@
+
+每次压缩Sanctuary_BuiltData.uasset采取切分为分卷形式，采用5M，因为github有单个文件不能超过100M的限制，直接压缩也不能在100M以下
+1 把 UEShooter\shooter\Content\Assets\Maps\Sanctuary_BuiltData.zip 解压到当前文件夹
+2 解压成功后会看到有一个Sanctuary_BuiltData.uasset文件，把Sanctuary_BuiltData.z01到Sanctuary_BuiltData.z27都删除 并且把Sanctuary_BuiltData.zip也删除
